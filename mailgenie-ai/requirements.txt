@@ -10,4 +10,4 @@ langchain-community
 langchain-core
 faiss-cpu
 tiktoken
-setence-transformers
+sentence-transformers
